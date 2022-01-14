@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/447345695.svg)](https://zenodo.org/badge/latestdoi/447345695)
+
 Anisotropic clustering inversion
 ================================
 
